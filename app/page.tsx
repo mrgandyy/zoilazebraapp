@@ -120,7 +120,7 @@ export default function Home() {
               Bring Zoila to Your School!
             </h2>
             <p className="text-xl text-pink-100 mb-10 max-w-2xl mx-auto">
-              We love visiting schools and libraries to share the magic of reading.
+              Juanita loves visiting schools and libraries to share the magic of reading.
               Schedule a visit or download free activities today.
             </p>
             <div className="flex flex-col sm:flex-row justify-center gap-4">

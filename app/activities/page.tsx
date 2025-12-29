@@ -28,24 +28,23 @@ export default function ActivitiesPage() {
                         </div>
                         <div className="prose text-gray-600">
                             <p className="mb-4">
-                                Our authors love visiting schools! A standard visit includes a reading of one or more books,
-                                an interactive discussion about the themes (friendship, kindness, health), and a Q&A session.
+                                <strong>Juanita Quinones Gandara</strong> brings her stories to life! A standard visit helps students connect with the themes of friendship, inclusion, and kindness through an engaging performance.
                             </p>
                             <p className="mb-6">
-                                We offer both in-person and virtual visits suited for Pre-K through 3rd Grade.
+                                Juanita uses <strong>puppets and Latin music</strong> to bring the books alive, creating a high-energy experience suited for <strong>Elementary and Middle Schools</strong>. She adapts her presentations to fit the specific age group of the audience.
                             </p>
                             <ul className="space-y-3 mb-8">
                                 <li className="flex items-center gap-2">
                                     <span className="w-2 h-2 bg-primary rounded-full"></span>
-                                    Interactive Storytelling
+                                    Interactive Storytelling with Puppets
                                 </li>
                                 <li className="flex items-center gap-2">
                                     <span className="w-2 h-2 bg-primary rounded-full"></span>
-                                    Character Building Activities
+                                    Latin Music & Dance Elements
                                 </li>
                                 <li className="flex items-center gap-2">
                                     <span className="w-2 h-2 bg-primary rounded-full"></span>
-                                    Signed Book Opportunities
+                                    Adaptable for Elementary & Middle School
                                 </li>
                             </ul>
                             <a href="/contact" className="inline-block px-6 py-3 bg-primary text-white font-bold rounded-full hover:bg-green-600 transition-colors">

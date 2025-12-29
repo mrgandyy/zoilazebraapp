@@ -31,7 +31,7 @@ export default function ActivitiesPage() {
                                 <strong>Juanita Quinones Gandara</strong> brings her stories to life! A standard visit helps students connect with the themes of friendship, inclusion, and kindness through an engaging performance.
                             </p>
                             <p className="mb-6">
-                                Juanita uses <strong>puppets and Latin music</strong> to bring the books alive, creating a high-energy experience suited for <strong>Elementary and Middle Schools</strong>. She adapts her presentations to fit the specific age group of the audience.
+                                Juanita uses <strong>puppets and Latin music</strong> to bring Zoila, Armando, and Little Raquel La Churro to life, creating a high-energy experience suited for <strong>Elementary and Middle Schools</strong>. She adapts her presentations to fit the specific age group of the audience.
                             </p>
                             <ul className="space-y-3 mb-8">
                                 <li className="flex items-center gap-2">

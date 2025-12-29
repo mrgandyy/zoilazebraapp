@@ -40,7 +40,7 @@ export default function AboutPage() {
                                     <h4 className="text-xl font-bold text-gray-900 font-heading">Juanita Quinones Gandara, M.Ed.</h4>
                                     <div className="text-gray-600 mt-2 space-y-2 text-sm">
                                         <p>
-                                            <strong>Bilingual (Spanglish) Author • Guest Speaker/Educational Consultant • Founder of an Anti-Bullying Program</strong>
+                                            <strong>Bilingual (Spanglish) Author • Guest Speaker/Educational Consultant • Founder of an Anti-Bullying "Program" system</strong>
                                         </p>
                                         <p>
                                             Juanita writes books for children in Spanglish on purpose to help expedite English learning acquisition while embracing the Spanish language.

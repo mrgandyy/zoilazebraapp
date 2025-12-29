@@ -18,7 +18,7 @@ export default function Hero() {
                         <AnimationWrapper animationType="fadeUp" delay={0.1}>
                             <div className="inline-flex items-center px-4 py-2 rounded-full border border-pink-100 bg-pink-50 text-primary text-sm font-bold mb-6">
                                 <span className="flex h-2 w-2 rounded-full bg-primary mr-2"></span>
-                                New adventures available now!
+                                All books are available now through Amazon and Barnes and Nobles
                             </div>
                         </AnimationWrapper>
 

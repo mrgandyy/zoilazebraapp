@@ -44,18 +44,7 @@ export default function ContactPage() {
                                 </div>
                             </div>
 
-                            <div className="flex items-start gap-4">
-                                <div className="p-3 bg-yellow-50 rounded-full text-yellow-600">
-                                    <MapPin className="w-6 h-6" />
-                                </div>
-                                <div>
-                                    <h3 className="font-bold text-gray-900">Mailing Address</h3>
-                                    <p className="text-gray-600">
-                                        123 Zebra Lane<br />
-                                        Storytime City, ST 12345
-                                    </p>
-                                </div>
-                            </div>
+
                         </div>
                     </div>
 

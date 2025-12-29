@@ -28,9 +28,7 @@ export default function BooksPage() {
                     <p className="text-lg text-gray-600 mb-8 max-w-2xl mx-auto">
                         We are working on new adventures for Zoila and her friends. Stay tuned for more stories about courage, honesty, and having fun!
                     </p>
-                    <Link href="/contact" className="text-primary font-bold hover:text-green-700">
-                        Join our newsletter to get updates &rarr;
-                    </Link>
+
                 </div>
             </div>
         </div>

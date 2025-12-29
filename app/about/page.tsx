@@ -92,6 +92,7 @@ export default function AboutPage() {
                                 {/* Illustrator placeholder */}
                                 <div className="w-32 h-32 bg-gray-200 rounded-full flex-shrink-0 flex items-center justify-center text-4xl border-4 border-white shadow-md">🎨</div>
                                 <div>
+                                    <h4 className="text-xl font-bold text-gray-900 font-heading">Christopher Dart & R.A. Monday</h4>
                                     <p className="text-gray-600 mt-2">
                                         Illustrators. Bringing Zoila, Armando, and Little Raquel La Churro to life.
                                     </p>

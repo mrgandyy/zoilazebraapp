@@ -83,8 +83,8 @@ export default function Home() {
                 <div className="relative w-80 h-80 sm:w-96 sm:h-96">
                   <div className="absolute inset-0 bg-white/50 backdrop-blur-sm rounded-full shadow-xl animate-pulse"></div>
                   <Image
-                    src="/images/amando-yellow.png"
-                    alt="Zoila's Friend Amando"
+                    src="/images/armando-yellow.png"
+                    alt="Zoila's Friend Armando"
                     fill
                     className="object-contain drop-shadow-2xl animate-float"
                   />

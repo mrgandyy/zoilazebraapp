@@ -68,8 +68,8 @@ export default function ActivitiesPage() {
                         <div className="space-y-4">
                             {[
                                 { id: 1, title: 'Zoila the Zebra', file: '/coloring/zoila-coloring.png' },
-                                { id: 2, title: 'Amando the Armadillo', file: '/coloring/amando-coloring.png' },
-                                { id: 3, title: 'Zoila & Amando Reading', file: '/coloring/friends-coloring.png' }
+                                { id: 2, title: 'Armando the Armadillo', file: '/coloring/armando-coloring.png' },
+                                { id: 3, title: 'Zoila & Armando Reading', file: '/coloring/friends-coloring.png' }
                             ].map((item) => (
                                 <div key={item.id} className="flex items-center justify-between p-4 border border-gray-200 rounded-lg hover:border-accent transition-colors group">
                                     <div className="flex items-center gap-4">

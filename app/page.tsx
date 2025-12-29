@@ -124,8 +124,8 @@ export default function Home() {
               Schedule a visit or download free activities today.
             </p>
             <div className="flex flex-col sm:flex-row justify-center gap-4">
-              <Link href="/programs" className="px-8 py-4 bg-white text-primary font-bold rounded-full shadow-lg hover:shadow-xl hover:scale-105 transition-all">
-                Learn About Programs
+              <Link href="/activities" className="px-8 py-4 bg-white text-primary font-bold rounded-full shadow-lg hover:shadow-xl hover:scale-105 transition-all">
+                Activities & Visits
               </Link>
               <Link href="/contact" className="px-8 py-4 border-2 border-white text-white font-bold rounded-full hover:bg-white/10 hover:scale-105 transition-all">
                 Get in Touch

@@ -23,7 +23,7 @@ export default function Navbar() {
             <Link href="/" className="text-gray-600 hover:text-white hover:bg-primary px-4 py-2 rounded-full text-sm font-bold transition-all duration-300">Home</Link>
             <Link href="/books" className="text-gray-600 hover:text-white hover:bg-primary px-4 py-2 rounded-full text-sm font-bold transition-all duration-300">Books</Link>
             <Link href="/about" className="text-gray-600 hover:text-white hover:bg-primary px-4 py-2 rounded-full text-sm font-bold transition-all duration-300">About</Link>
-            <Link href="/programs" className="text-gray-600 hover:text-white hover:bg-primary px-4 py-2 rounded-full text-sm font-bold transition-all duration-300">Programs</Link>
+            <Link href="/activities" className="text-gray-600 hover:text-white hover:bg-primary px-4 py-2 rounded-full text-sm font-bold transition-all duration-300">Activities</Link>
             <Link href="/contact" className="bg-primary text-white hover:bg-pink-600 px-6 py-2.5 rounded-full text-sm font-bold shadow-md hover:shadow-lg transition-all transform hover:-translate-y-0.5 border-2 border-transparent hover:border-pink-300">Contact</Link>
           </div>
           <div className="-mr-2 flex items-center sm:hidden">

@@ -24,7 +24,7 @@ export default function ContactPage() {
                                 </div>
                                 <div>
                                     <h3 className="font-bold text-gray-900">Email Us</h3>
-                                    <p className="text-gray-600">hello@zoilathezebra.com</p>
+                                    <p className="text-gray-600">zoilathezebra@gmail.com</p>
                                     <p className="text-sm text-gray-400 mt-1">We usually reply within 24 hours.</p>
                                 </div>
                             </div>
@@ -35,10 +35,11 @@ export default function ContactPage() {
                                 </div>
                                 <div>
                                     <h3 className="font-bold text-gray-900">Social Media</h3>
-                                    <p className="text-gray-600">Follow us @ZoilaTheZebra</p>
+                                    <p className="text-gray-600">Follow us for updates!</p>
                                     <div className="flex gap-4 mt-2">
-                                        <a href="#" className="text-blue-600 hover:text-blue-700 font-medium">Facebook</a>
-                                        <a href="#" className="text-pink-600 hover:text-pink-700 font-medium">Instagram</a>
+                                        <a href="https://www.facebook.com/zoilathezebra" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:text-blue-700 font-medium">Facebook</a>
+                                        <a href="https://www.instagram.com/zoilathezebra" target="_blank" rel="noopener noreferrer" className="text-pink-600 hover:text-pink-700 font-medium">Instagram</a>
+                                        <a href="https://x.com/zoilathezebra" target="_blank" rel="noopener noreferrer" className="text-gray-800 hover:text-black font-medium">X (Twitter)</a>
                                     </div>
                                 </div>
                             </div>
@@ -61,7 +62,7 @@ export default function ContactPage() {
                     {/* Contact Form */}
                     <div className="bg-gray-50 rounded-2xl p-8 shadow-sm border border-gray-100">
                         <h2 className="text-2xl font-bold text-gray-900 font-heading mb-6">Send a Message</h2>
-                        <form className="space-y-6">
+                        <form action="https://formspree.io/f/xojqrdwj" method="POST" className="space-y-6">
                             <div>
                                 <label htmlFor="name" className="block text-sm font-medium text-gray-700 mb-1">Name</label>
                                 <input type="text" id="name" className="w-full px-4 py-2 rounded-lg border border-gray-300 focus:ring-2 focus:ring-primary focus:border-transparent outline-none transition-all" placeholder="Your name" />

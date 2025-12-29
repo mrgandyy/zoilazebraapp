@@ -22,16 +22,16 @@ export default function Footer() {
                     </Link>
 
                     <div className="flex justify-center space-x-8">
-                        <a href="#" className="p-3 bg-gray-100 rounded-full text-gray-400 hover:text-white hover:bg-primary transition-all hover:scale-110">
+                        <a href="https://www.facebook.com/zoilathezebra" target="_blank" rel="noopener noreferrer" className="p-3 bg-gray-100 rounded-full text-gray-400 hover:text-white hover:bg-primary transition-all hover:scale-110">
                             <span className="sr-only">Facebook</span>
                             <Facebook className="h-6 w-6" />
                         </a>
-                        <a href="#" className="p-3 bg-gray-100 rounded-full text-gray-400 hover:text-white hover:bg-accent transition-all hover:scale-110">
+                        <a href="https://www.instagram.com/zoilathezebra" target="_blank" rel="noopener noreferrer" className="p-3 bg-gray-100 rounded-full text-gray-400 hover:text-white hover:bg-accent transition-all hover:scale-110">
                             <span className="sr-only">Instagram</span>
                             <Instagram className="h-6 w-6" />
                         </a>
-                        <a href="#" className="p-3 bg-gray-100 rounded-full text-gray-400 hover:text-white hover:bg-blue-400 transition-all hover:scale-110">
-                            <span className="sr-only">Twitter</span>
+                        <a href="https://x.com/zoilathezebra" target="_blank" rel="noopener noreferrer" className="p-3 bg-gray-100 rounded-full text-gray-400 hover:text-black hover:bg-gray-200 transition-all hover:scale-110">
+                            <span className="sr-only">X (Twitter)</span>
                             <Twitter className="h-6 w-6" />
                         </a>
                     </div>
@@ -41,7 +41,7 @@ export default function Footer() {
                     <Link href="/" className="px-6 py-2 rounded-full hover:bg-gray-100 text-gray-600 hover:text-primary transition-colors font-medium">Home</Link>
                     <Link href="/books" className="px-6 py-2 rounded-full hover:bg-gray-100 text-gray-600 hover:text-primary transition-colors font-medium">Books</Link>
                     <Link href="/about" className="px-6 py-2 rounded-full hover:bg-gray-100 text-gray-600 hover:text-primary transition-colors font-medium">About</Link>
-                    <Link href="/programs" className="px-6 py-2 rounded-full hover:bg-gray-100 text-gray-600 hover:text-primary transition-colors font-medium">Programs</Link>
+                    <Link href="/activities" className="px-6 py-2 rounded-full hover:bg-gray-100 text-gray-600 hover:text-primary transition-colors font-medium">Activities</Link>
                     <Link href="/contact" className="px-6 py-2 rounded-full hover:bg-gray-100 text-gray-600 hover:text-primary transition-colors font-medium">Contact</Link>
                 </nav>
 

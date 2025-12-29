@@ -31,7 +31,7 @@ export default function Hero() {
 
                         <AnimationWrapper animationType="fadeUp" delay={0.3}>
                             <p className="mt-3 text-base text-gray-500 sm:mt-5 sm:text-lg sm:max-w-xl sm:mx-auto md:mt-5 md:text-xl lg:mx-0">
-                                Join Zoila and her friends on wonderful adventures that teach valuable lessons about friendship, feelings, and staying healthy.
+                                Empowering children with social-emotional skills and the courage to live bully-free. Join Zoila in celebrating unique stripes and spreading kindness!
                             </p>
                         </AnimationWrapper>
 
@@ -47,7 +47,7 @@ export default function Hero() {
                                 </div>
                                 <div className="mt-3 sm:mt-0">
                                     <Link
-                                        href="/programs"
+                                        href="/activities"
                                         className="w-full flex items-center justify-center px-8 py-4 border-2 border-primary text-base font-medium rounded-full text-primary bg-transparent hover:bg-pink-50 md:text-lg md:px-10 transition-all transform hover:-translate-y-1"
                                     >
                                         School Visits

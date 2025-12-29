@@ -1,13 +1,13 @@
 import { Download, Calendar } from 'lucide-react';
 import Image from 'next/image';
 
-export default function ProgramsPage() {
+export default function ActivitiesPage() {
     return (
         <div className="bg-white">
             <div className="bg-accent/10 py-16">
                 <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
                     <h1 className="text-4xl font-extrabold text-gray-900 font-heading sm:text-5xl mb-4">
-                        Programs & Activities
+                        Activities & Visits
                     </h1>
                     <p className="text-xl text-gray-600 max-w-2xl mx-auto">
                         Bring Zoila to your classroom or enjoy fun activities at home.

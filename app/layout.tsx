@@ -20,6 +20,19 @@ const inter = Inter({
 export const metadata: Metadata = {
   title: "Zoila the Zebra",
   description: "Join Zoila on her adventures! Children's books, school visits, and more.",
+  openGraph: {
+    title: "Zoila the Zebra",
+    description: "Join Zoila on her adventures! Children's books, school visits, and more.",
+    images: ["/images/logo.png"],
+  },
+  twitter: {
+    card: "summary_large_image",
+    images: ["/images/logo.png"],
+  },
+  icons: {
+    icon: "/images/logo.png",
+    apple: "/images/logo.png",
+  },
 };
 
 export default function RootLayout({

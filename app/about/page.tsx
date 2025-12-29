@@ -94,7 +94,7 @@ export default function AboutPage() {
                                 <div>
                                     <h4 className="text-xl font-bold text-gray-900 font-heading">Christopher Dart & R.A. Monday</h4>
                                     <p className="text-gray-600 mt-2">
-                                        Illustrators. Bringing Zoila, Armando, and Little Raquel La Churro to life.
+                                        Illustrators. Bringing Zoila, Armando, and Little Raquel La Churros to life.
                                     </p>
                                 </div>
                             </div>

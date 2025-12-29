@@ -18,7 +18,7 @@ export const featuredBooks = [
         amazonLink: "https://www.amazon.com/Zoilas-Three-Tricks-Avoid-Getting/dp/B08J5BHTVP/ref=sr_1_3?dchild=1&qid=1603156982&refinements=p_27%3AJuanita+Quinones+Gandara&s=books&sr=1-3&text=Juanita+Quinones+Gandara"
     },
     {
-        title: "The Magical Journey of Little Raquel La Churro's Courage of a Migrant Child",
+        title: "The Magical Journey of Little Raquel La Churros' Courage of a Migrant Child",
         description: "Raquel is about to start a brand-new adventure in the United States! Moving from Cd. Juarez, Mexico, she is excited but nervous about her new school. As she struggles to find her voice, some classmates tease her. But with the love and encouragement of her family, Raquel works hard, embraces her heritage, and finds the courage to stand tall. A heartwarming story of resilience, family, and the beauty of diversity.",
         imageSrc: "/images/book-raquel.jpg",
         amazonLink: "https://www.barnesandnoble.com/w/the-magical-journey-of-little-raquel-la-churros-courage-of-a-migrant-child-juanita-quii-ones-gandara/1147446693?ean=9798218529772"

@@ -24,7 +24,7 @@ export default function ContactPage() {
                                 </div>
                                 <div>
                                     <h3 className="font-bold text-gray-900">Email Us</h3>
-                                    <p className="text-gray-600">zoilathezebra@gmail.com</p>
+                                    <p className="text-gray-600">zoilazebra@gmail.com</p>
                                     <p className="text-sm text-gray-400 mt-1">We usually reply within 24 hours.</p>
                                 </div>
                             </div>

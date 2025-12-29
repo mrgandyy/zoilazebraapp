@@ -18,6 +18,7 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
+  metadataBase: new URL('https://zoilazebra.com'), // Replace with actual production URL when available
   title: "Zoila the Zebra",
   description: "Join Zoila on her adventures! Children's books, school visits, and more.",
   openGraph: {

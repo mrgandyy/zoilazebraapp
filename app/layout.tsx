@@ -3,6 +3,7 @@ import { Outfit, Inter } from "next/font/google"; // Import Outfit and Inter
 import "./globals.css";
 import Navbar from "./components/Navbar";
 import Footer from "./components/Footer";
+import ZoilaCompanion from "./components/ZoilaCompanion";
 
 // Configure fonts
 const outfit = Outfit({
@@ -50,6 +51,7 @@ export default function RootLayout({
         <main className="flex-grow">
           {children}
         </main>
+        <ZoilaCompanion />
         <Footer />
       </body>
     </html>

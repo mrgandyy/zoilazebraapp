@@ -1,4 +1,4 @@
-import { Mail, MessageCircle, MapPin } from 'lucide-react';
+import { Mail, MessageCircle } from 'lucide-react';
 
 export default function ContactPage() {
     return (
@@ -8,8 +8,8 @@ export default function ContactPage() {
                     <h1 className="text-4xl font-extrabold text-gray-900 font-heading sm:text-5xl mb-4">
                         Get in Touch
                     </h1>
-                    <p className="text-xl text-gray-600 max-w-2xl mx-auto">
-                        Have a question about our books? Want to schedule a visit? Just want to say hi? We'd love to hear from you!
+                    <p className="text-xl text-gray-600 max-w-2xl mx-auto font-sans">
+                        Have a question about our books? Want to schedule a visit? Just want to say hi? We&apos;d love to hear from you!
                     </p>
                 </div>
 
@@ -22,9 +22,9 @@ export default function ContactPage() {
                                 <div className="p-3 bg-blue-50 rounded-full text-blue-500">
                                     <Mail className="w-6 h-6" />
                                 </div>
-                                <div>
-                                    <h3 className="font-bold text-gray-900">Email Us</h3>
-                                    <p className="text-gray-600">zoilazebra@gmail.com</p>
+                                <div className="font-sans text-sm">
+                                    <h3 className="font-bold text-gray-900 text-base">Email Us</h3>
+                                    <p className="text-gray-600 mt-1">zoilazebra@gmail.com</p>
                                     <p className="text-sm text-gray-400 mt-1">We usually reply within 24 hours.</p>
                                 </div>
                             </div>
@@ -33,9 +33,9 @@ export default function ContactPage() {
                                 <div className="p-3 bg-green-50 rounded-full text-green-500">
                                     <MessageCircle className="w-6 h-6" />
                                 </div>
-                                <div>
-                                    <h3 className="font-bold text-gray-900">Social Media</h3>
-                                    <p className="text-gray-600">Follow us for updates!</p>
+                                <div className="font-sans text-sm">
+                                    <h3 className="font-bold text-gray-900 text-base">Social Media</h3>
+                                    <p className="text-gray-600 mt-1">Follow us for updates!</p>
                                     <div className="flex gap-4 mt-2">
                                         <a href="https://www.facebook.com/zoilathezebra" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:text-blue-700 font-medium">Facebook</a>
                                         <a href="https://www.instagram.com/zoilathezebra" target="_blank" rel="noopener noreferrer" className="text-pink-600 hover:text-pink-700 font-medium">Instagram</a>
@@ -43,13 +43,11 @@ export default function ContactPage() {
                                     </div>
                                 </div>
                             </div>
-
-
                         </div>
                     </div>
 
                     {/* Contact Form */}
-                    <div className="bg-gray-50 rounded-2xl p-8 shadow-sm border border-gray-100">
+                    <div className="bg-gray-50 rounded-2xl p-8 shadow-sm border border-gray-100 font-sans">
                         <h2 className="text-2xl font-bold text-gray-900 font-heading mb-6">Send a Message</h2>
                         <form action="https://formspree.io/f/xojqrdwj" method="POST" className="space-y-6">
                             <div>

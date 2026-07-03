@@ -19,11 +19,11 @@ const inter = Inter({
 
 export const metadata: Metadata = {
   metadataBase: new URL('https://zoilazebra.com'), // Replace with actual production URL when available
-  title: "Zoila the Zebra",
-  description: "Join Zoila on her adventures! Children's books, school visits, and more.",
+  title: "Zoila the Zebra - Children's Books on Kindness & Inclusion",
+  description: "Join Zoila on her adventures! Discover our latest book 'Zoila the Zebra Meets Amazing Friends of All Abilities' (A Story About Special Needs), spreading kindness and inclusion.",
   openGraph: {
-    title: "Zoila the Zebra",
-    description: "Join Zoila on her adventures! Children's books, school visits, and more.",
+    title: "Zoila the Zebra - Children's Books on Kindness & Inclusion",
+    description: "Join Zoila on her adventures! Discover our latest book 'Zoila the Zebra Meets Amazing Friends of All Abilities' (A Story About Special Needs), spreading kindness and inclusion.",
     images: ["/images/logo.png"],
   },
   twitter: {
